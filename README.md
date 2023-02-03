@@ -12,3 +12,4 @@ You can see the [assignment here](https://github.com/Manny1599/4375/blob/f8abffd
 ##Assignment 2 
 DATA Analyssis PDF
 You can see the [assignment here](A2_writeup.pdf)
+You can see the [code here](Assignment2.cpp)
