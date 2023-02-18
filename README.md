@@ -13,3 +13,7 @@ You can see the [assignment here](https://github.com/Manny1599/4375/blob/f8abffd
 DATA Analyssis PDF
 You can see the [assignment here](A2_writeup.pdf)
 You can see the [code here](Assignment2.cpp)
+
+
+##Assignment 3
+you can see the [classification pdf here](Classification.pdf)
