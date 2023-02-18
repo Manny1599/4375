@@ -17,3 +17,4 @@ You can see the [code here](Assignment2.cpp)
 
 ##Assignment 3
 you can see the [classification pdf here](Classification.pdf)
+you can see the [regression pdf here](Regression.pdf)
