@@ -18,3 +18,8 @@ You can see the [code here](Assignment2.cpp)
 ##Assignment 3
 you can see the [classification pdf here](Classification.pdf)
 you can see the [regression pdf here](Regression.pdf)
+
+
+##Assignment 4
+you can see the [Logistic Regression and Naive Bayes  code here](HW4.cpp)
+you can see the [Write up here]()
