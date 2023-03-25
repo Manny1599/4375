@@ -26,4 +26,4 @@ you can see the [Write up here](updated_A4doc.pdf)
 
 ##Assignment 5
 you can see the [K - means and Hierarchical clustering
-pdf here](K - means and Hierarchical clustering.pdf)
+pdf here](clustering.pdf)
