@@ -28,7 +28,10 @@ you can see the [Write up here](updated_A4doc.pdf)
 you can see the K - means and Hierarchical clustering
 pdf here:
 [part 1](Part_One.pdf)
-[part 2] (SimiliarityAndEnsemble-part2-.pdf)
+[part 2](SimiliarityAndEnsemble-part2-.pdf)
 [part 3](clustering.pdf)
 [part 4](Similarity_-_Dimensional_Reduction_.pdf)
 [part 5](Part_5.pdf)
+
+##Asignment 6
+you can see the [Ml with sklearn here](ML_with_sklearn.pdf)
