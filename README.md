@@ -37,4 +37,4 @@ pdf here:
 you can see the [Ml with sklearn here](ML_with_sklearn.pdf)
 
 ##Asignment 7
-You can see my [Resume here](MR resume wrap up.pdf)
+You can see my [Resume here](MR resume wrap up.pdf) 
