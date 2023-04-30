@@ -1,6 +1,9 @@
 # 4375
 For CS 4375
 
+#Summary 
+I really enjoyed working and learning Machine Learning. I also really enjoy working on cars and trucks and would like to learn how to tune them. I think it would be really cool to learn how to tune the cars and then see if I could create some code that could be used to automate that process if possible. I would like to continue learning about machine learning and get better at it as well since i found that I was lacking in some of the projects but that was more an issue on my part due to not managing my time more efficiently and also not finding and getting frustruated with not finding good data sets that would be easy to work with for machine learning.
+
 
 ##Assignment 1
 
